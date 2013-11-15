@@ -1,1 +1,0 @@
-/var/www/html/drupalcore/index.php
